@@ -1,0 +1,9 @@
+1/ declarez 3 variables:
+nom complet
+si vous etes debutant sur angular ou non
+nbr d'années d'experience en developpement
+
+2/ afficher à la console la phrase suivante:
+I'm <nom complet>.
+I'm <beginer/not beginer> on angular
+And i have <experience> years in programming.
